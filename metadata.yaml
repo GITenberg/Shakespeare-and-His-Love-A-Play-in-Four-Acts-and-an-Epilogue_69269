@@ -1,5 +1,8 @@
 _repo: Shakespeare-and-His-Love-A-Play-in-Four-Acts-and-an-Epilogue_69269
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69269-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Frank
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1255
     wikipedia: https://en.wikipedia.org/wiki/Frank_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69269#Shakespeare-and-His-Love-A-Play-in-Four-Acts-and-an-Epilogue
 gutenberg_issued: '2022-10-30'
 identifiers:
   gutenberg: '69269'
